@@ -3,5 +3,4 @@
         lblAnzeige.Text = "Hey GitHub - What´s up?"
     End Sub
     'Now I change something. 
-    'And again. 
 End Class
